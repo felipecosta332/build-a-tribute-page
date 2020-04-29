@@ -1,0 +1,31 @@
+#main {
+    background-color: lightgray;
+    position: relative;
+}
+
+#img-div {
+    background-color: white;
+    position: absolute;
+    left: 30px;
+    right: 30px;
+    padding: 0px;
+}
+
+#content {
+    position: relative;
+}
+
+#image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#tribute-link, #tribute-info, #title, #img-caption {
+    text-align: center;
+}
+/*
+li {
+    padding: 10px;
+    text-align: justify;
+}*/
