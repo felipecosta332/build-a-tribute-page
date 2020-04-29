@@ -5,14 +5,16 @@
 
 #img-div {
     background-color: white;
-    position: absolute;
-    left: 30px;
-    right: 30px;
-    padding: 0px;
+    width: 95%;
+    margin: 0 auto;
+    padding-bottom: 20px;
 }
 
 #content {
-    position: relative;
+    width: 70%;
+    margin: 0 auto;
+    padding-top: 20px;
+    padding-bottom: 30px;
 }
 
 #image {
@@ -24,8 +26,3 @@
 #tribute-link, #tribute-info, #title, #img-caption {
     text-align: center;
 }
-/*
-li {
-    padding: 10px;
-    text-align: justify;
-}*/
