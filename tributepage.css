@@ -1,11 +1,11 @@
 #main {
-    background-color: lightgray;
+    background-color: #EBEBEB;
     position: relative;
 }
 
 #img-div {
     background-color: white;
-    width: 95%;
+    width: 97.75%;
     margin: 0 auto;
     padding-bottom: 20px;
 }
@@ -21,8 +21,19 @@
     display: block;
     margin-left: auto;
     margin-right: auto;
+    width: 78.5%;
+    max-width: 78.5%;
 }
 
 #tribute-link, #tribute-info, #title, #img-caption {
     text-align: center;
+}
+
+#title {
+    padding-bottom: 0.3em;
+}
+
+h1 {
+    padding-top: 1.5em;
+    padding-bottom: 0.3em;
 }
